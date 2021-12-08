@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a german student, programming since January 2021 in my free time and in school.
 
 
 ## 🛠 Skills
