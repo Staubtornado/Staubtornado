@@ -18,7 +18,7 @@ I'm a german student, programming since January 2021 in my free time and in scho
 - SCSS
 
 
-## Other Common Github Profile Sections
+## Personal information
 👩‍💻 I'm currently working on Python Discord Bots
 
 🧠 I'm currently learning Java, HTML & CSS
