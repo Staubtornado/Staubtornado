@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I'm a german student, programming since January 2021 in my free time and in school.
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![wakatime](https://wakatime.com/badge/user/321afb87-dbaf-4d4f-9be2-129725dc9a42.svg)](https://wakatime.com/@321afb87-dbaf-4d4f-9be2-129725dc9a42)
 
 
 ## 🛠 Skills
