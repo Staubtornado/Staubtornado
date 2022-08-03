@@ -14,10 +14,10 @@ I'm a german student, programming since January 2021 in my free time and in scho
 - Java
 - HTML
 - CSS
+- Javascript
 ### Worked with
-- JavaScript
 - SCSS
-
+- SQL
 
 ## Personal information
 👩‍💻 I'm currently working on Python Discord Bots
