@@ -15,9 +15,11 @@ I'm a german student, programming since January 2021 in my free time and in scho
 - HTML
 - CSS
 - Javascript
+- SQL
 ### Worked with
 - SCSS
-- SQL
+- TypeScript
+- Electron
 
 ## Personal information
 👩‍💻 I'm currently working on Python Discord Bots
